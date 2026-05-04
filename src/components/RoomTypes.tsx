@@ -10,28 +10,28 @@ const rooms = [
   {
     title: "King Room",
     description: "Experience ultimate comfort in our spacious King Room, perfect for couples or solo travelers looking for extra space to relax.",
-    image: "/images/king.jpg",
+    image: "/images/king.png",
     capacity: "2 Guests",
     bed: "1 King Bed",
   },
   {
     title: "Double Queen Room",
     description: "Ideal for families or friends traveling together, offering two comfortable queen beds with all the modern amenities you need.",
-    image: "/images/queen.jpg",
+    image: "/images/queen.png",
     capacity: "4 Guests",
     bed: "2 Queen Beds",
   },
   {
     title: "Deluxe Room",
     description: "Our premium offering featuring a King bed and elegant mirrored walls, creating a sophisticated and spacious atmosphere.",
-    image: "/images/deluxe.jpg",
+    image: "/images/deluxe.png",
     capacity: "2 Guests",
     bed: "1 King Bed",
   },
   {
     title: "Accessible Room",
     description: "Thoughtfully designed for comfort and ease of use, featuring spacious layouts, roll-in showers, and accessible amenities.",
-    image: "/images/accessible.jpg",
+    image: "/images/accessible.png",
     capacity: "2 Guests",
     bed: "1 King or Queen Bed",
   }

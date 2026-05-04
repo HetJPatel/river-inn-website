@@ -7,10 +7,10 @@ import { useState, useEffect } from "react";
 const STAYFLEXI_URL = "https://bookingengine.stayflexi.com/?hotel_id=36119";
 
 const heroImages = [
-  "/images/hero.jpg",
-  "/images/deluxe.jpg",
-  "/images/king.jpg",
-  "/images/queen.jpg",
+  "/images/hero.png",
+  "/images/deluxe.png",
+  "/images/king.png",
+  "/images/queen.png",
   // Add more images here later
 ];
 
